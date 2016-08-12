@@ -132,7 +132,7 @@ public class ReserveItem extends JInternalFrame{
 		/* adding the panel to the center panel  */
 		centerPanel.add("South", reserveButtonPanel);
 		/* setting the border to the panel  */
-		centerPanel.setBorder(BorderFactory.createTitledBorder("Check out an Item :"));
+		centerPanel.setBorder(BorderFactory.createTitledBorder("Reserve an Item :"));
 		/* adding the panel to the container  */
 		contentPane.add("Center", centerPanel);
 
